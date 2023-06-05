@@ -16,3 +16,4 @@ rootProject.name = "ExtractPic"
 include ':app'
 include ':MVC'
 include ':network'
+include ':MVP'
